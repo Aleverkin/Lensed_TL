@@ -1,5 +1,5 @@
 # Lensed_TL
-Analyze of Transfer Learning for rectifying parameters strong lensed systems
+Analyze Transfer Learning for rectifying parameters strong lensed systems
 
 В данном репозитории Матлабовские файлы для создания сильнолинзированных изображений и Jupyter тетрадки обучения нейросетей с помощью Transfer-Learning метода (веса для Inception_v4 отсюда:  https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models, там же есть сами модели.) и обучение с нуля VGG_16. 
 Обученные таким образом веса, созданные сильнолинзированны изображения с параметрами и изображения с ComsicRays для создания изображений лежат тут: https://drive.google.com/drive/folders/1obh2pAkc73kPgIRNJgLCBSGLUXYiirLP?usp=sharing
